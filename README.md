@@ -1,8 +1,8 @@
-### Fyle Web Development Internship Assignment
+# Fyle Web Development Internship Assignment
 
 ## Github Repositories listing page
 
-# A website that displays the public Github repositories belonging to any specific user.
+### A website that displays the public Github repositories belonging to any specific user.
 
 ### References & Requirements
 
